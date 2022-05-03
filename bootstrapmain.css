@@ -1,0 +1,56 @@
+.container{
+	font-family: Georgia; serif;
+	border-left: 1px solid lightgray;
+	border-right: 1px solid lightgray;
+	background-color: white;
+	max-width: 930px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+}
+
+.col-md-6{
+	padding: 8px;
+	max-width: 900px;
+}
+
+.col-sm-10{
+	padding: 8px;
+	max-width: 900px;
+	margin-right: 5%;
+	margin-left: 5%
+}
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center
+}
+
+.dek h2 {
+	font-size: 20px;
+	text-align: center;
+	font-style: italic;
+}
+
+.byline h3 {
+	font-size: 15px;
+	text-align: center;
+}
+
+img {
+	width: 510px;
+	height: 300px;
+	align-content: center;
+}
+
+.caption {
+	font-size: 12px;
+	max-width: 700px;
+	line-height: 20px;
+}
